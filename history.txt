@@ -1,2 +1,9 @@
 MASTER 1
+<<<<<<< HEAD
+=======
+
+EXPERIMENTO 1
+>>>>>>> 741a652 (EXP 1)
+
+
 MASTER 2
